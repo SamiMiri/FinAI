@@ -30,8 +30,6 @@ export const InformationCircleIcon = () => (
     </svg>
 );
 
-
-// FIX: Add missing CheckIcon and XMarkIcon components
 interface IconProps {
   className?: string;
 }
